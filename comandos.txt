@@ -1,0 +1,7 @@
+sempre começa comando com 'ng'
+precisa ter node e npm baixado
+tentar baixar versao 19.0.5
+
+ng -- version
+ng new 'nome do projeto' -> selecionar css
+ng serve -o -> roda o app (o "-o" ja abre o navegador direto)
