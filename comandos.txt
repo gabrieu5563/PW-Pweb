@@ -4,4 +4,5 @@ tentar baixar versao 19.0.5
 
 ng -- version
 ng new 'nome do projeto' -> selecionar css
-ng serve -o -> roda o app (o "-o" ja abre o navegador direto)
+ng serve -o -> roda o app o "-o" ja abre o navegador direto)
+ng g c "nome" ->  cria arquivos pra separar conteúdo (ordem do conteúdo definido no app.content.html)
